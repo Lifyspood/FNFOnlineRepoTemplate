@@ -1,0 +1,7 @@
+mods/data/swagmoney/swagmoney-null.json
+mods/data/swagmoney/swagmoney.json
+mods/data/swagmoney/swagmoney.null.json
+mods/songs/swagmoney/Voices.ogg
+mods/songs/swagmoney/Inst.ogg
+mods/songs/swagmoney/voices.ogg
+mods/songs/swagmoney/inst.ogg
