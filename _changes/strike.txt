@@ -1,0 +1,6 @@
+mods/data/strike/strike-hard.json
+mods/data/strike/strike.json
+mods/songs/strike/Voices.ogg
+mods/songs/strike/Inst.ogg
+mods/songs/strike/voices.ogg
+mods/songs/strike/inst.ogg
